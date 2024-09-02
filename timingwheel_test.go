@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/RussellLuo/timingwheel"
+	"github.com/arunfung/timingwheel"
 )
 
 func TestTimingWheel_AfterFunc(t *testing.T) {
