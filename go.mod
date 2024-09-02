@@ -1,3 +1,3 @@
-module github.com/RussellLuo/timingwheel
+module github.com/arunfung/timingwheel
 
-go 1.14
+go 1.21
